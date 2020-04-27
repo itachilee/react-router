@@ -60,7 +60,7 @@ function Topics() {
           <Link to={`${match.url}/components`}>Components</Link>
         </li>
         <li>
-          <Link to={`${match.url}/props-v-state`}>Props v. State</Link>
+          <Link to={`${match.url}/props-v-state`}>Props a. State</Link>
         </li>
       </ul>
 
